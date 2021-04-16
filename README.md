@@ -24,6 +24,7 @@ I want changes to my workflow to be propagated across all systems in a sustainab
 - Markdown previewer
 - WSL2
 - Docker
+- PowerToys
 
 ### Python
 - Python 3.x\*
