@@ -1,14 +1,15 @@
-# Auto Tooling
+#
+Auto Tooling
 
 My personal tool mamangement system.
 
 Run Script:
 
-`
+```
 Set-ExecutionPolicy Bypass -Scope Process -Force;
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072;
 iex ((New-Object System.Net.WebClient).DownloadString("https://github.com/Liamdoult/auto-tooling/blob/master/setup.ps1"));
-`
+```
 
 
 ## Objectives
